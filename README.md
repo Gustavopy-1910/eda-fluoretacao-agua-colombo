@@ -28,7 +28,7 @@ Mostra a frequência das medições e a presença de valores extremos nas pontas
 ### Comparativo por Unidade de Saúde (Boxplot)
 Permite identificar visualmente quais as Unidades de Saúde que ultrapassam os limites legais (linhas vermelhas em 0.60 e 0.80 ppm).
 
-![Boxplot](download(1).png)
+![Boxplot](download (1).png)
 
 4. Tecnologias Utilizadas
 **Python** (Pandas, Matplotlib, Seaborn)
