@@ -23,12 +23,12 @@ Ao analisar os dados de forma global, a média parece adequada, mas o desvio-pad
 ### Distribuição Geral (Histograma)
 Mostra a frequência das medições e a presença de valores extremos nas pontas.
 
-![Histograma](download.png)
+![Histograma](histrograma.png)
 
 ### Comparativo por Unidade de Saúde (Boxplot)
 Permite identificar visualmente quais as Unidades de Saúde que ultrapassam os limites legais (linhas vermelhas em 0.60 e 0.80 ppm).
 
-![Boxplot](download (1).png)
+![Boxplot](boxplot.png)
 
 4. Tecnologias Utilizadas
 **Python** (Pandas, Matplotlib, Seaborn)
