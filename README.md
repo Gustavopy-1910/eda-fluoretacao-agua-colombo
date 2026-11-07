@@ -1,5 +1,4 @@
 # eda-fluoretacao-agua-colombo
-Análise Exploratória de Dados (EDA) em Python sobre a qualidade da fluoretação da água em Colombo/PR, identificando discrepâncias e riscos de saúde pública ocultos pela média estatística.
 🚰 Case de Portfólio: Diagnóstico da Fluoretação da Água em Colombo/PR
 
 Análise Exploratória de Dados (EDA) em Python sobre a conformidade do processo de fluoretação da água no município de Colombo/PR, identificando instabilidades no processo e unidades de saúde críticas.
